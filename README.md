@@ -11,6 +11,7 @@ Verified Contract: https://bscscan.com/token/0x20f0ea71fc224126db53edc848f77d1c7
 Website: https://Rhinofinance.org
 MAXIMUM SUPPLY: 20,000,000
 TOTAL BURNED BEFORE LAUNCH: 500,000
+DECIMALS: 18
 ANTI-WHALE LAUNCH: Controlled launch, maximum purchase of RHN 50,000
 LIQUIDITY PROVIDER: $RHN tokens will encompass a Yielding Farming Ecosystem where it will generate rewards for liquidity providers.
 DeFI: The world of finance without banks and stock exchanges seems impossible, doesn't it? But it can exist and that is what the DeFi propose. With DeFi, the market is always open, without centralized authorities that can block or deny an individual's access to something.
