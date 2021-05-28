@@ -13,6 +13,7 @@ DECIMALS: 18
 VERIFIED CONTRACT: https://bscscan.com/token/0x20f0ea71fc224126db53edc848f77d1c7b1f723c
 CONTRACT CODE: 0xc3ad775606bf26f8605d5c98e57b2555cdf4d8bd
 SITE: https://Rhinofinance.org
+DISTRIBUTION: 0x643bb0cc39656cbf03f3f9ebd92ebe4f189f0f09 RELEASES 38%, 25% YIELD 0xdf4f55e27ffae3574b65b30b71c4353efe928bc8 FARMING AND DEX, 0xb262affe9ae50ba1443a8058d7119183192763d2 12.5% ​​TOKEN OF DEVELOPMENT, 0xcc8cf0eb5c0b1c01fdae5ed9339fa59297a7c63c 10% FOR A SOCIAL CAUSES SEVERAL.
 
 ANTI-WHALE LAUNCH: Instead of listing all currencies once, we opted for the fractional launch, thus regulating the quantity of those who buy and who sell, being fair to everyone.
 
