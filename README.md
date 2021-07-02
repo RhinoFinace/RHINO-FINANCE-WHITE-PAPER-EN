@@ -1,7 +1,7 @@
 # RHINI-FINANCE-WHITE-PAPER-EN
 LIQUIDITY PROVIDER, ANTI-WHALE LAUNCH, DEFI and MANUAL BURNS.
 
-Rhino Finance token, developed with the community in mind, to be accepted in various sectors of society as a form of payment and a liquidity provider, secure, DeFI and will encompass an Eielding Yielding Farming and DEX (Decentralized Exchange) Ecosystem, welcome to the future of finance .
+Rhino Finance token, developed with the community in mind, to be accepted in various sectors of society as a form of payment and a liquidity provider, secure, DeFI and will encompass an Yielding Farming and DEX (Decentralized Exchange) Ecosystem, welcome to the future of finance .
 
 TOKENOMICS RHINO FINANCE $RNF
 LAUNCH DATE: 2021/06/05 00:00 GMT
