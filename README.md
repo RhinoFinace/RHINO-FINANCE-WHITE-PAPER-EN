@@ -1,4 +1,4 @@
-# RHINI-FINANCE-WHITE-PAPER-EN
+# RHINO-FINANCE-WHITE-PAPER-EN
 LIQUIDITY PROVIDER, ANTI-WHALE LAUNCH, DEFI and MANUAL BURNS.
 
 Rhino Finance token, developed with the community in mind, to be accepted in various sectors of society as a form of payment and a liquidity provider, secure, DeFI and will encompass an Yielding Farming and DEX (Decentralized Exchange) Ecosystem, welcome to the future of finance .
